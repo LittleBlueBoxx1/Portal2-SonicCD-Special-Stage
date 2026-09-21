@@ -1,0 +1,12 @@
+"Sprite"
+{
+	"$baseTexture" "sonic_cd/spikes"
+	"$Translucent" "1"
+	"$spriteorientation" "oriented"
+	"$spriteorigin" "[0.50 0.50]"
+	"Proxies" 
+	{ 
+
+	} 
+ 
+}

@@ -1,0 +1,11 @@
+"Sprite"
+{
+	"$baseTexture" "sonic_cd/numbers"
+	"$Translucent" "1"
+	"$spriteorigin" "[0.50 0.46875]"
+	"Proxies" 
+	{ 
+
+	} 
+ 
+}
