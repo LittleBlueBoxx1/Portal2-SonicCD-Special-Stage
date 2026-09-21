@@ -1,0 +1,68 @@
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: D:\SteamLibrary\steamapps\common\Portal 2\portal2\materials
+Loading D:\SteamLibrary\steamapps\common\Portal 2\sdk_content\maps\instances\sonic_cd\ufo.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (2179 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 6 texinfos to 4
+Reduced 2 texdatas to 2 (35 bytes to 35)
+Writing D:\SteamLibrary\steamapps\common\Portal 2\sdk_content\maps\instances\sonic_cd\ufo.bsp
+
+nummapplanes:     (    36 / 65536 )
+nummapbrushes:    (     3 /  8192 )
+nummapbrushsides: (    18 / 65536 )
+num_map_overlays: (     0 /   512 )
+nummodels:        (     3 /  1024 )
+num_entities:     (    19 / 16384 )
+
+0 seconds elapsed
+
+
+
+24 threads
+reading d:\steamlibrary\steamapps\common\portal 2\sdk_content\maps\instances\sonic_cd\ufo.bsp
+reading d:\steamlibrary\steamapps\common\portal 2\sdk_content\maps\instances\sonic_cd\ufo.prt
+LoadPortals: couldn't read d:\steamlibrary\steamapps\common\portal 2\sdk_content\maps\instances\sonic_cd\ufo.prt
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: D:\SteamLibrary\steamapps\common\Portal 2\portal2\materials
+Loading d:\steamlibrary\steamapps\common\portal 2\sdk_content\maps\instances\sonic_cd\ufo.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (2179 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 6 texinfos to 4
+Reduced 2 texdatas to 2 (35 bytes to 35)
+Writing d:\steamlibrary\steamapps\common\portal 2\sdk_content\maps\instances\sonic_cd\ufo.bsp
+
+nummapplanes:     (    36 / 65536 )
+nummapbrushes:    (     3 /  8192 )
+nummapbrushsides: (    18 / 65536 )
+num_map_overlays: (     0 /   512 )
+nummodels:        (     3 /  1024 )
+num_entities:     (    20 / 16384 )
+
+0 seconds elapsed
+
+
+
+24 threads
+reading d:\steamlibrary\steamapps\common\portal 2\sdk_content\maps\instances\sonic_cd\ufo.bsp
+reading d:\steamlibrary\steamapps\common\portal 2\sdk_content\maps\instances\sonic_cd\ufo.prt
+LoadPortals: couldn't read d:\steamlibrary\steamapps\common\portal 2\sdk_content\maps\instances\sonic_cd\ufo.prt
